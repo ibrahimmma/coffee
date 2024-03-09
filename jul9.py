@@ -9,5 +9,5 @@ Created on Tue Jul  9 15:30:52 2019
 def my_function(country):
     print("I am from " + country)
     
-country = input("where are you from?")
+country = input("where are you from, huh?")
 my_function(country)
